@@ -15,7 +15,7 @@ Private score: 0.43455(27th)
 * Features from json files and text are almost same as public kernels
 * Features of Malaysia - GDP, Area, Population, HDI(Human Development Index)
 * First image features extraction by Densenet121
-* Var aggregation on basis of RescuerID to tell the model that if the RescuerID-Group treat their pets in the same way or not
+* Var aggregation on basis of RescuerID to tell the model that if the RescuerID-Group treat their pets in the same quality or not
 * New health features of how many 1(good) or 3(Not Sure) in ['Health', 'Vaccinated', 'Dewormed', 'Sterilized']
 * New age feature that expresses if the pet is younger or older in its RescuerID-Group or overall by using 'Age' and 'RescuerID_Age_var'
 
