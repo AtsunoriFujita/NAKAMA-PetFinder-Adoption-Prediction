@@ -33,6 +33,12 @@ The following features have high importance
 * groupby RescuerID
 
 
+### Models
+* LightGBM
+* XGBoost
+* CatBoost
+
+
 ### Ensemble method
 * We performed ridge regression stacking using 9models(all GBDT).
 
