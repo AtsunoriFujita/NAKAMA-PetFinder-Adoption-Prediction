@@ -5,10 +5,11 @@ This respository contains our code for competition in kaggle.
 
 27th Place Solution for [PetFinder Adoption Prediction](https://www.kaggle.com/c/petfinder-adoption-prediction "PetFinder Adoption Prediction")
 
-Taem: [Y.Nakama](https://www.kaggle.com/yasufuminakama "Y.Nakama"),   [currypurin](https://www.kaggle.com/currypurin "currypurin"),   [atfujita](https://www.kaggle.com/atsunorifujita "atfujita"),   [copypaste](https://www.kaggle.com/copypaste0122 "copypaste")
+Team: [Y.Nakama](https://www.kaggle.com/yasufuminakama "Y.Nakama"),   [currypurin](https://www.kaggle.com/currypurin "currypurin"),   [atfujita](https://www.kaggle.com/atsunorifujita "atfujita"),   [copypaste](https://www.kaggle.com/copypaste0122 "copypaste")
 
 Public score: 0.484(6th)    
 Private score: 0.43455(27th)
+
 
 #### About nakama's feature
 * Features from json files and text are almost same as public kernels
@@ -30,6 +31,10 @@ The following features have high importance
 * pure_breed(x)
 * image data SVD
 * groupby RescuerID
+
+
+#### Ensemble method
+* We performed ridge regression stacking using 9models(all GBDT).
 
 
 #### Blog
