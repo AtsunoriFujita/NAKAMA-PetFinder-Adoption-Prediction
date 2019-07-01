@@ -29,7 +29,8 @@ The following features have high importance
 
 ### atfujita's feature
 * pure_breed(x)
-* image data SVD
+* image features extraction & SVD
+* text data SVD
 * groupby RescuerID
 
 
