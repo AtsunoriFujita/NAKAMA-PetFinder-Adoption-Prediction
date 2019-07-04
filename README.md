@@ -33,6 +33,12 @@ The following features have high importance
 * text data SVD
 * groupby RescuerID
 
+### copypaste's feature
+* text data SVD and NMF
+  * different tokenization, with/without stemming
+  * countvectorizer / tfidfvectorizer
+* image features extraction by Densenet121 and MobileNet
+* image quality features by blur and NIMA
 
 ### Models
 * LightGBM
